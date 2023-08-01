@@ -23,3 +23,10 @@
 [![](https://visitcount.itsvg.in/api?id=akshaykeenath&icon=4&color=1)](https://visitcount.itsvg.in)
 
 
+###
+
+<img src="https://raw.githubusercontent.com/akshaykeenath/akshaykeenath/output/snake.svg" alt="Snake animation" />
+
+###
+
+
